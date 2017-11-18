@@ -1,0 +1,25 @@
+{
+    "name": "gitbook-plugin-tabs",
+    "version": "0.1.0",
+    "description": "A plugin for Bootstap's tab",
+    "author": {
+        "name": "Lars Hoss",
+        "email": "lars.hoss@gmail.com",
+        "url": "http://github.com/woeye"
+    },
+    "keywords": [
+        "gitbook",
+        "interactive",
+        "tabs"
+    ],
+    "engines": {
+        "gitbook": ">2.x.x"
+    },
+    "gitbook": {
+        "properties": {
+        }
+    },
+    "dependencies": {
+        "lodash": "^4.17.4"
+    }
+}
