@@ -16,3 +16,8 @@ Content for third tab ...
 
 {% endtabs %}
 ```
+
+## Changelog
+
+* **0.1.1:** Support markdown inside tabs
+* **0.1.0:** Initial release

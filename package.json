@@ -1,7 +1,7 @@
 {
-    "name": "gitbook-plugin-tabs",
-    "version": "0.1.0",
-    "description": "A plugin for Bootstap's tab",
+    "name": "gitbook-plugin-simpletabs",
+    "version": "0.1.1",
+    "description": "Enable simple tabs in GitBook by using Twitter Bootstrap",
     "author": {
         "name": "Lars Hoss",
         "email": "lars.hoss@gmail.com",
@@ -12,14 +12,18 @@
         "interactive",
         "tabs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/woeye/gitbook-plugin-tabs.git"
+    },
     "engines": {
         "gitbook": ">2.x.x"
     },
     "gitbook": {
-        "properties": {
-        }
+        "properties": {}
     },
     "dependencies": {
+        "gitbook-markdown": "^2.0.1",
         "lodash": "^4.17.4"
     }
 }
