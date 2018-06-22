@@ -23,7 +23,7 @@
         "properties": {}
     },
     "dependencies": {
-        "gitbook-markdown": "^2.0.1",
+        "gitbook-markdown": "1.3.2",
         "lodash": "^4.17.4"
     }
 }
